@@ -1,0 +1,11 @@
+{
+  "Empty lines were deleted": "Usunięto puste linie",
+  "Lines converted to base64": "Linie zostały przekonwertowane na base64",
+  "Lines were NOT converted to base64": "Linie NIE zostały przekonwertowane na base64",
+  "Lines shuffled": "Linie zostały wymieszane",
+  "List wasn't shuffled": "Lista nie została wymieszana",
+  "Duplicates removed": "Usunięto duplikaty",
+  "List has not duplicates": "Lista nie zawiera duplikatów",
+  "Lines capitalized": "Linie zapisane wielką literą",
+  "Lines were NOT converted capitalized": "Linie nie zostały zamienione na wielkie litery"
+}

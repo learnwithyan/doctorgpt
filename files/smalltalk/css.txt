@@ -1,0 +1,2 @@
+.keyword-function { color: secondary; font-size: 15px; }
+.keyword-return { color: primary; font-size: 15px; }
