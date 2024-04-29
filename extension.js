@@ -161,23 +161,29 @@ function loadHtmlToView(codePrompts = null) {
   let keys = extFuncs.readFile(codeLang, 'keywords.txt');
   const keywords = keys.split('\n');
   // Replace each keyword with a <span> element with the keyword itself as the class name
+  let styleArr = [];
   keywords.forEach((keyword) => {
-    const regExp = new RegExp(`\\b${keyword}\\b`, 'g');
-    replacedCode = replacedCode.replace(
-      regExp,
-      `<span class="keyword-${keyword}">${keyword}</span>`
-    );
-  });
-  //get styles
-  let styles = extFuncs.readFile(codeLang, 'css.txt');
-  styles = styles
-    .replace(/\n/g, ' ')
-    .replace(/primary/g, textPrimaryColor)
-    .replace(/secondary/g, textSecondaryColor);
-  const cssStyles = '`' + styles + '`';
+    keyword = keyword.toLowerCase();
+    if (keyword != 'class') {
+      styleArr.push(
+        '.keyword-' +
+          keyword +
+          ' { color: ' +
+          textPrimaryColor +
+          '; font-size: 15px; }'
+      );
+      const regExp = new RegExp(`\\b${keyword}\\b`);
+      replacedCode = replacedCode.replace(
+        regExp,
+        `<span class="keyword-${keyword.toLowerCase()}">${keyword}</span>`
+      );
+    } //get styles
+  }); //get styles
+  let styles = styleArr.join(' ');
+  let cssStyles = '`' + styles + '`';
   replacedCode = replacedCode
     .replace(/\n/g, '<br>')
-    .replace(/}<br>}/g, '<span style="margin-left:10px;">}</span><br>}')
+    // .replace(/}<br>}/g, '<span style="margin-left:10px;">}</span><br>}')
     .replace(/```[a-z]+/g, '')
     .replace(/```/g, '');
   // Example HTML content
