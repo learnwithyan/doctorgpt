@@ -1,6 +1,6 @@
 # DoctorGPT
 
-A DoctorGPT megjavítja a fejlesztő kódodat, és az AI által vezérelt kódkiegészítést és javaslatokat hozza be a kódolási környezetedbe. Ez a kiterjesztés intelligens javaslatokat, kódrészleteket és kódkiegészítéseket nyújt a kódod kontextusának megfelelően, ezáltal javítva a kódolási élményedet.
+A DoctorGPT megjavítja a fejlesztői kódot, és az openai chat GPT kód befejezésének és javaslatoknak az AI erejét hozza be közvetlenül a kódolási környezetébe! Ez a bővítmény intelligens javaslatokat, kódrészleteket és kódbevitelt nyújt a kód kontextusától függően, ezáltal fokozza a kódolási élményét.
 
 ## Hogyan kell használni?
 

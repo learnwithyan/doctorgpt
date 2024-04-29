@@ -1,6 +1,6 @@
 # DoctorGPT
 
-The DoctorGPT fix your developer code and brings the power of AI-driven code completion and suggestions right into your coding environment. This extension enhances your coding experience by providing intelligent suggestions, snippets, and code completions based on the context of your code.
+The DoctorGPT fix your developer code and brings the AI power of openai chat GPT code completion and suggestions right into your coding environment! This extension enhances your coding experience by providing intelligent suggestions, snippets, and code completions based on the context of your code.
 
 ##
 

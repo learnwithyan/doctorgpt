@@ -1,6 +1,6 @@
 # DoctorGPT
 
-O DoctorGPT corrige o seu código de desenvolvedor e traz o poder da conclusão de código e sugestões baseadas em IA diretamente para o seu ambiente de codificação. Esta extensão melhora a sua experiência de codificação fornecendo sugestões inteligentes, trechos de código e conclusões com base no contexto do seu código.
+O DoctorGPT corrige o código do seu desenvolvedor e traz o poder de IA do openai chat GPT para completar e sugerir códigos diretamente em seu ambiente de programação! Esta extensão melhora sua experiência de codificação fornecendo sugestões inteligentes, trechos de código e completando códigos com base no contexto do seu código.
 
 ## Como usar?
 

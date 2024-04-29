@@ -1,11 +1,9 @@
 {
-  "Empty lines were deleted": "Пустые строки были удалены",
-  "Lines converted to base64": "Строки преобразованы в base64",
-  "Lines were NOT converted to base64": "Строки НЕ были преобразованы в base64",
-  "Lines shuffled": "Строки перемешаны",
-  "List wasn't shuffled": "Список не был перемешан",
-  "Duplicates removed": "Дубликаты удалены",
-  "List has not duplicates": "Список не содержит дубликатов",
-  "Lines capitalized": "Строки приведены к верхнему регистру",
-  "Lines were NOT converted capitalized": "Строки не были приведены к верхнему регистру"
+  "Paste Api key from chat GPT": "Вставьте Api ключ из чата GPT",
+  "No API key found. Please set it in settings.json": "Ключ API не найден. Пожалуйста, установите его в settings.json",
+  "Check if balance on https://platform.openai.com is positive?": "Проверьте, положительный ли баланс на https://platform.openai.com?",
+  "Check if Internet working?": "Проверьте, работает ли интернет?",
+  "Check if you set GPT Api Key?": "Проверьте, установили ли вы ключ API для GPT?",
+  " set successfully": " успешно установлен",
+  " not set. Please try again": " не установлен. Пожалуйста, попробуйте еще раз"
 }

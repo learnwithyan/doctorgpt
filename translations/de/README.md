@@ -1,6 +1,6 @@
 # DoctorGPT
 
-Der DoctorGPT repariert Ihren Entwicklercode und bringt die Leistung der KI-gesteuerten Codevervollständigung und -vorschläge direkt in Ihre Codierumgebung. Diese Erweiterung verbessert Ihr Codierungserlebnis, indem sie intelligente Vorschläge, Snippets und Codevervollständigungen basierend auf dem Kontext Ihres Codes bereitstellt.
+Der DoctorGPT verbessert Ihren Entwicklercode und bringt die KI-Power von OpenAI Chat GPT-Codevervollständigung und -vorschläge direkt in Ihre Codierungsumgebung! Diese Erweiterung verbessert Ihr Codierungserlebnis, indem sie intelligente Vorschläge, Snippets und Codevervollständigungen basierend auf dem Kontext Ihres Codes bereitstellt.
 
 ## Wie benutzt man?
 

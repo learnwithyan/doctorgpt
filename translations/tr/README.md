@@ -1,6 +1,6 @@
 # DoctorGPT
 
-DoctorGPT, geliştirici kodunuzu düzeltir ve AI destekli kod tamamlama ve önerilerini kodlama ortamınıza getirir. Bu uzantı, kodunuzun bağlamına göre akıllı öneriler, kısayollar ve kod tamamlamaları sağlayarak kodlama deneyiminizi geliştirir.
+The DoctorGPT, geliştirici kodunuzu düzeltir ve açıkai sohbet GPT kod tamamlama ve önerilerinin yapay zekasını doğrudan kodlama ortamınıza getirir! Bu uzantı, kodunuzun bağlamına dayalı olarak zekice öneriler, parçacıklar ve kod tamamlamaları sağlayarak kodlama deneyiminizi geliştirir.
 
 ## Nasıl kullanılır?
 

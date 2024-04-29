@@ -1,6 +1,6 @@
 # DoctorGPT
 
-DoktorGPT opravuje váš vývojářský kód a přináší sílu AI-řízeného dokončování kódu a návrhů přímo do vašeho programovacího prostředí. Tato rozšíření zlepšují vaše programovací zkušenosti poskytováním inteligentních návrhů, fragmentů a dokončení kódu na základě kontextu vašeho kódu.
+Doktor GPT opraví váš vývojářský kód a přináší sílu umělé inteligence chatu OpenAI GPT přímo do vašeho programovacího prostředí! Toto rozšíření zlepšuje vaši programovací zkušenost poskytováním inteligentních návrhů, kousků kódu a doplňování kódu na základě kontextu vašeho kódu.
 
 ## Jak používat?
 

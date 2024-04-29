@@ -1,11 +1,9 @@
 {
-  "Empty lines were deleted": "Las líneas vacías fueron eliminadas",
-  "Lines converted to base64": "Las líneas fueron convertidas a base64",
-  "Lines were NOT converted to base64": "Las líneas no fueron convertidas a base64",
-  "Lines shuffled": "Las líneas fueron mezcladas",
-  "List wasn't shuffled": "La lista no fue mezclada",
-  "Duplicates removed": "Duplicados fueron eliminados",
-  "List has not duplicates": "La lista no tiene duplicados",
-  "Lines capitalized": "Líneas en mayúsculas",
-  "Lines were NOT converted capitalized": "Las líneas NO se convirtieron en mayúsculas"
+  "Paste Api key from chat GPT": "Paste Api key from chat GPT",
+  "No API key found. Please set it in settings.json": "No API key found. Please set it in settings.json",
+  "Check if balance on https://platform.openai.com is positive?": "Check if balance on https://platform.openai.com is positive?",
+  "Check if Internet working?": "Check if Internet working?",
+  "Check if you set GPT Api Key?": "Check if you set GPT Api Key?",
+  " set successfully": " set successfully",
+  " not set. Please try again": " not set. Please try again"
 }

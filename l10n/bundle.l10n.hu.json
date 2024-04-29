@@ -1,11 +1,9 @@
 {
-  "Empty lines were deleted": "A üres sorok törölve lettek",
-  "Lines converted to base64": "A sorok base64-é konvertálva lettek",
-  "Lines were NOT converted to base64": "A sorokat nem sikerült base64-é konvertálni",
-  "Lines shuffled": "A sorok összekeverve lettek",
-  "List wasn't shuffled": "A lista nem lett összekeverve",
-  "Duplicates removed": "A duplikátumok eltávolítva lettek",
-  "List has not duplicates": "A lista nem tartalmaz duplikátumokat",
-  "Lines capitalized": "Sorok nagybetűsítve",
-  "Lines were NOT converted capitalized": "A sorokat nem alakították át nagybetűssé"
+  "Paste Api key from chat GPT": "Paste Api key from chat GPT",
+  "No API key found. Please set it in settings.json": "No API key found. Please set it in settings.json",
+  "Check if balance on https://platform.openai.com is positive?": "Check if balance on https://platform.openai.com is positive?",
+  "Check if Internet working?": "Check if Internet working?",
+  "Check if you set GPT Api Key?": "Check if you set GPT Api Key?",
+  " set successfully": " set successfully",
+  " not set. Please try again": " not set. Please try again"
 }

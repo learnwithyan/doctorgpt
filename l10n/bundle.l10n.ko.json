@@ -1,11 +1,9 @@
 {
-  "Empty lines were deleted": "빈 줄이 삭제되었습니다",
-  "Lines converted to base64": "라인이 base64로 변환되었습니다",
-  "Lines were NOT converted to base64": "라인이 base64로 변환되지 않았습니다",
-  "Lines shuffled": "라인이 섞였습니다",
-  "List wasn't shuffled": "리스트가 섞이지 않았습니다",
-  "Duplicates removed": "중복이 제거되었습니다",
-  "List has not duplicates": "리스트에 중복이 없습니다",
-  "Lines capitalized": "대문자로 변환된 줄",
-  "Lines were NOT converted capitalized": "줄이 대문자로 변환되지 않았습니다"
+  "Paste Api key from chat GPT": "채팅 GPT에서 Api 키를 붙여 넣으세요",
+  "No API key found. Please set it in settings.json": "API 키를 찾을 수 없습니다. settings.json에 설정하십시오",
+  "Check if balance on https://platform.openai.com is positive?": "https://platform.openai.com의 잔액이 양수인지 확인하십시오?",
+  "Check if Internet working?": "인터넷이 작동하는지 확인하십시오?",
+  "Check if you set GPT Api Key?": "GPT Api 키를 설정했는지 확인하십시오?",
+  " set successfully": "성공적으로 설정됨",
+  " not set. Please try again": "설정되지 않았습니다. 다시 시도하십시오"
 }

@@ -1,6 +1,6 @@
 # DoctorGPT
 
-DoctorGPT naprawia Twój kod programisty i wprowadza moc sugerowania kodu i sugestii opartych na sztucznej inteligencji bezpośrednio do Twojego środowiska kodowania. To rozszerzenie poprawia Twoje doświadczenia z kodowaniem, dostarczając inteligentnych sugestii, fragmentów kodu i uzupełnień kodu na podstawie kontekstu Twojego kodu.
+The DoctorGPT naprawia Twój kod programisty i wprowadza moc sztucznej inteligencji openai chat GPT do uzupełniania kodu oraz sugestii bezpośrednio w Twoim środowisku programistycznym! To rozszerzenie ulepsza Twoje doświadczenie z kodowaniem, dostarczając inteligentnych sugestii, fragmentów kodu i uzupełnień kodu na podstawie kontekstu Twojego kodu.
 
 ## Jak używać?
 

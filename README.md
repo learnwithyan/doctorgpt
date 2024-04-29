@@ -2,13 +2,13 @@
 
 The DoctorGPT fix your developer code and brings the power of AI-driven code completion and suggestions right into your coding environment. This extension enhances your coding experience by providing intelligent suggestions, snippets, and code completions based on the context of your code.
 
-## How to chat?
-
-[![Vscode extension](/translations/demo.gif 'Vscode extension demo')](https://learnwithyan.com)
-
-## Set API key
+## 1 step: set API key
 
 [![Vscode extension](/translations/api-key.gif 'Vscode extension demo')](https://learnwithyan.com)
+
+## 2 step: select the text and send to chat GPT
+
+[![Vscode extension](/translations/demo.gif 'Vscode extension demo')](https://learnwithyan.com)
 
 ## How to use?
 

@@ -1,11 +1,9 @@
 {
-  "Empty lines were deleted": "空行已删除",
-  "Lines converted to base64": "行已转换为base64",
-  "Lines were NOT converted to base64": "行未转换为base64",
-  "Lines shuffled": "行已洗牌",
-  "List wasn't shuffled": "列表未洗牌",
-  "Duplicates removed": "重复项已移除",
-  "List has not duplicates": "列表中没有重复项",
-  "Lines capitalized": "行大写化",
-  "Lines were NOT converted capitalized": "行未转换为大写"
+  "Paste Api key from chat GPT": "从聊天GPT粘贴Api密钥",
+  "No API key found. Please set it in settings.json": "未找到API密钥。请在settings.json中设置",
+  "Check if balance on https://platform.openai.com is positive?": "检查https://platform.openai.com上的余额是否为正数？",
+  "Check if Internet working?": "检查互联网是否正常工作？",
+  "Check if you set GPT Api Key?": "检查是否设置了GPT Api密钥？",
+  " set successfully": "设置成功",
+  " not set. Please try again": "未设置。请重试"
 }

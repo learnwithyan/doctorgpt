@@ -22,6 +22,14 @@ function activate(context) {
     }),
     vscode.commands.registerCommand(extFuncs.extName + '.com3', function () {
       requestHandler(flag, text);
+      // Help me find mistakes in the following code <paste code below>.
+      // I want to <prompt>. Can you provide an example of how to do that?
+      // Please continue writing this code <post code below>
+      // I need to create <prompt>. Can you provide an example of how to do that using <prompt>?
+      // Find the bug with this code: <post code below>
+      // Generate <prompt> examples of <prompt>
+      // Write a regex for <prompt>
+      // I’m making a <prompt>. I need ideas on <prompt>.
     })
   );
 }
@@ -74,7 +82,7 @@ function setApiKey(flag, text) {
     .then((userInput) => {
       console.log('User input:', userInput);
       if (userInput) {
-        extFuncs.setSettings('api-key', userInput);
+        extFuncs.setSettings('api-key', 'Bearer ' + userInput);
       }
     });
 }
