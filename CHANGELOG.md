@@ -1,5 +1,6 @@
 ## Release Notes
 
-### 1.2.0
+### 1.3.7
 
-- first commit
+- updated configs
+- added hotkey ctrl+shift+g to send Doctor GPT request

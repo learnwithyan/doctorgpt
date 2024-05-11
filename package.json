@@ -2,7 +2,7 @@
   "name": "doctorgpt",
   "displayName": "Doctor GPT fix your code with help of chat GPT",
   "description": "The Doctor GPT fix your developer code and brings the AI power of openai chat GPT code completion and suggestions right into your coding environment! This extension enhances your coding experience by providing intelligent suggestions, snippets, and code completions based on the context of your code.",
-  "version": "1.3.6",
+  "version": "1.3.7",
   "publisher": "learnwithyan",
   "icon": "images/logo_128.png",
   "bugs": {
@@ -20,6 +20,14 @@
   ],
   "main": "./extension.js",
   "contributes": {
+    "keybindings": [
+      {
+        "command": "doctorgpt.com3",
+        "key": "ctrl+shift+g",
+        "mac": "cmd+shift+g",
+        "when": "editorTextFocus"
+      }
+    ],
     "commands": [
       {
         "command": "doctorgpt.com1",
@@ -38,32 +46,32 @@
       }
     ],
     "configuration": {
-      "title": "doctorgpt Configurations",
+      "title": "Doctor GPT Configurations",
       "properties": {
         "doctorgpt.api-key": {
           "type": "string",
           "default": "",
-          "description": "Set here API key from chat GPT"
+          "description": "Set here API key from Openai chat GPT"
         },
         "doctorgpt.bg-chat-color": {
           "type": "string",
           "default": "#000",
-          "description": "Set here background color for chat GPT"
+          "description": "Set here background color for Doctor GPT"
         },
         "doctorgpt.bg-text-size": {
           "type": "string",
           "default": "15",
-          "description": "Set here text size for chat GPT"
+          "description": "Set here text size for Doctor GPT"
         },
         "doctorgpt.text-primary-color": {
           "type": "string",
           "default": "#2e95d3",
-          "description": "Set here Primary color for chat GPT"
+          "description": "Set here Primary color for Doctor GPT"
         },
         "doctorgpt.text-secondary-color": {
           "type": "string",
           "default": "#00a67d",
-          "description": "Set here Secondary color for chat GPT"
+          "description": "Set here Secondary color for Doctor GPT"
         },
         "doctorgpt.code-lang": {
           "type": "string",
