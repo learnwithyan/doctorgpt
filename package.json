@@ -2,7 +2,7 @@
   "name": "doctorgpt",
   "displayName": "Doctor GPT fix your code with help of chat GPT",
   "description": "The Doctor GPT fix your developer code and brings the AI power of openai chat GPT code completion and suggestions right into your coding environment! This extension enhances your coding experience by providing intelligent suggestions, snippets, and code completions based on the context of your code.",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "publisher": "learnwithyan",
   "icon": "images/logo_128.png",
   "bugs": {

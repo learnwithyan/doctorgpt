@@ -97,7 +97,7 @@ function requestHandler(flag, text) {
     // console.log(editor);
     var selection = editor.selection;
     var text = editor.document.getText(selection);
-    text = text.replace(/\n/g, ' '); // Replace all occurrences of \n with a space
+    // text = text.replace(/\n/g, ' '); // Replace all occurrences of \n with a space
     // Get a specific value from the configuration
     config = vscode.workspace.getConfiguration(extFuncs.extName);
 
@@ -182,7 +182,7 @@ function loadHtmlToView(codePrompts = null) {
   let styles = styleArr.join(' ');
   let cssStyles = '`' + styles + '`';
   replacedCode = replacedCode
-    .replace(/\n/g, '<br>')
+    .replace(/\n/g, '</br>')
     // .replace(/}<br>}/g, '<span style="margin-left:10px;">}</span><br>}')
     .replace(/```[a-z]+/g, '')
     .replace(/```/g, '');
